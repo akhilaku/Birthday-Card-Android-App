@@ -1,2 +1,2 @@
 # Birthday-Card-Android-App
-This is a simple Birthday Card Android Application using
+This is a simple Birthday Card Android Application using java
