@@ -6,4 +6,5 @@ When you are learning Android app development, you begin with single screen apps
 This is how the Application(icon) looks like in a normal android phones.
 ![](https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191136.png)
 
+This is the image and text displayed when you open the application. When you are working with my cide you can change the image and text according to your wish.
 ![](https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191141.png)
