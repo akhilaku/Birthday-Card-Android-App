@@ -5,10 +5,14 @@ When you are learning Android app development, you begin with single screen apps
 
 **This is how the Application(icon) looks like in a normal android phones.**
 
-![](https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191136.png)
+<p align="center">
+<kbd><img src=https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191136.png width=250 height=500></kbd>
+  </p>
 
 **This is the image and text displayed when you open the application. When you are working with my code you can change the image and text according to your wish.**
 
-![](https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191141.png)
+<p align="center">
+<kbd><img src=https://github.com/akhilaku/Birthday-Card-Android-App/blob/master/Screenshot_20200515-191141.png width=250 height=500></kbd>
+  </p>
 
 **The android codes are very easy to understand and learn. The best platform to learn android app development for free is Udacity and google android developers site.**
